@@ -1,0 +1,7 @@
+define S = character("Shinobu")
+Define ? = Character("Girl")
+label start:
+    scene pic1
+    pause
+    ? "What's your name hot stuff"
+return
